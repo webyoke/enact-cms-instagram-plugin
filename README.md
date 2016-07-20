@@ -1,4 +1,4 @@
-#Code Plugin for Enact CMS
+#Instagram Plugin for Enact CMS
 Plugin for [Enact CMS](https://enactcms.com).
 
 Allows embedding [Instagram](https://instagram.com) posts by providing a custom Instagram field
